@@ -7,3 +7,5 @@
 [The fourth homework including the failed attempt to use pygame](http://note.youdao.com/noteshare?id=720aab4ecf2cb7b6b50abc1fe0ee64ee) which is the exercise 2.9 of the book. You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/4th-homework).
 
 [The fifth homework](http://note.youdao.com/noteshare?id=5551907d8e56851cc266744bc1fc1153). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/5th-homework).
+
+[The fifth homework](http://note.youdao.com/noteshare?id=a8e866ffb9e88ab548fcc3736353c81d). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/6th-homework).
