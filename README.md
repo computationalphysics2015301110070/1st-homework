@@ -8,4 +8,7 @@
 
 [The fifth homework](http://note.youdao.com/noteshare?id=5551907d8e56851cc266744bc1fc1153). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/5th-homework).
 
-[The fifth homework](http://note.youdao.com/noteshare?id=a8e866ffb9e88ab548fcc3736353c81d). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/6th-homework).
+[The sixth homework](http://note.youdao.com/noteshare?id=a8e866ffb9e88ab548fcc3736353c81d). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/6th-homework).
+
+
+[The seventh homework](http://note.youdao.com/noteshare?id=8f3e11d5a10b7b2ccb2fbe96cb1469a9). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/7th-homework).
