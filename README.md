@@ -15,4 +15,4 @@
 
 [The eighth homework](http://note.youdao.com/noteshare?id=66fa8b35f8924dac480a0916847c536b). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/8th-homework).
 
-[The eighth homework](https://github.com/hqzhao97/midterm).
+[Midterm homework](https://github.com/hqzhao97/midterm).
