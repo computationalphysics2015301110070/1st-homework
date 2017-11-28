@@ -16,3 +16,5 @@
 [The eighth homework](http://note.youdao.com/noteshare?id=66fa8b35f8924dac480a0916847c536b). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/8th-homework).
 
 [Midterm homework](https://github.com/hqzhao97/midterm).
+
+[The 9th homework](http://note.youdao.com/noteshare?id=1edc8a99bf89870b46b0f01a7ee6ddd1). You may take a close look at the code and pictures by clicking [here](https://github.com/hqzhao97/9th-homework).
